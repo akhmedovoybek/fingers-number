@@ -1,5 +1,8 @@
 # fingers-number
 
+- This project aims to detect and track human hand then count the number of upped fingers. 
+
+
 - Clone the repository.
 ```
 git clone https://github.com/noorkhokhar99/fingers-number.git
